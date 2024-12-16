@@ -5,8 +5,8 @@ import Header from "@/components/header";
 import Hero from "@/components/hero";
 import Logo from "@/components/logo";
 import MiddleHeader from "@/components/middleheader";
-import { Productsection } from "@/components/productsection";
-import { Topcategories } from "@/components/topcategories";
+import Productsection  from "@/components/productsection";
+import  Topcategories  from "@/components/topcategories";
 import { Ourproduct } from "@/components/ourproduct";
 
 export default function Home() {

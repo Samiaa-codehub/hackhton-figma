@@ -1,5 +1,3 @@
-import { Productsection } from "./productsection"
-
 const Cardheader = () => {
     return (
 <div className="max-w-7xl h-[44px] mx-auto mt-8 md:mt-0 text-center md:text-start  ">

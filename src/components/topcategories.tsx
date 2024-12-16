@@ -3,8 +3,8 @@ import Image from "next/image";
 import React from "react";
 import wingchair from "../../public/wingchair.png";
 import woodenchair from "../../public/woodenchair.png";
-import deskchair from "../../public/deskchair.png";
-export const Topcategories = () => {
+
+ const Topcategories = () => {
   return (
     <div className=" mt-[200px]">
     
@@ -58,3 +58,4 @@ export const Topcategories = () => {
     </div>
   );
 };
+export default Topcategories
